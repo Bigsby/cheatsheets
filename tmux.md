@@ -27,3 +27,4 @@
   - `Esc` - Clear selection
   - `Enter` - Copy selection and quit
   - `q` - Quit
+- `Ctrl-b ]` - Paste
