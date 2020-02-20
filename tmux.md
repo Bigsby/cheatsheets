@@ -19,8 +19,11 @@
 # pane
 - `Ctrl-b %` - split horizontally
 - `Ctrl-b "` - split vertically
+- `Ctrl-b x` - kill pane
 - `Ctrl-b Ctrl-Cursors` - resize
 - `Ctrl-b Cursors` - select directional pane
+- `Ctrl-b z` - toggle fullscreen
+
 
 # copy-mode
 - `Ctrl-b [` - Enter copy-mode. Vim visual-mode keys apply, including block.
