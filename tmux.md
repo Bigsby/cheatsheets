@@ -7,6 +7,7 @@
   ```
   tmux attach-session -t «sessionNumber»
   ```
+- `Ctrl-b d` - detach session/client
 
 # window
 - `Ctrl-b c` - new window
