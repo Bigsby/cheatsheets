@@ -12,3 +12,11 @@
   - `y` - copy (yank)
   - `d` - cut
 - ´p´ - paste, in normal mode
+
+## Tabs
+- New tab
+  ```
+  :tabnew «filename»
+  ```
+- `Ctrl + w Shit + t` - Pane to new tab
+- `gt` - go to next tab
