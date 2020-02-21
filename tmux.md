@@ -17,6 +17,7 @@
 - `Ctrl-b ,` - rename window
 - `Ctrl-b .` - renumber window
 - `Ctrl-b Shit-Alt-x` - kill window
+- `Shift+Left` or `Shift+Right` - select window
 
 ## pane
 - `Ctrl-b %` - split horizontally
