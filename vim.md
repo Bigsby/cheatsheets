@@ -20,3 +20,7 @@
   ```
 - `Ctrl + w Shit + t` - Pane to new tab
 - `gt` - go to next tab
+
+## Undo / Redo
+- `u` - Undo
+- `Ctrl + r` - Redo
