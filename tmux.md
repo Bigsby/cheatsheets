@@ -26,6 +26,7 @@
 - `Ctrl-b Ctrl-Cursors` - resize
 - `Ctrl-b Cursors` - select directional pane
 - `Ctrl-b z` - toggle fullscreen
+- `Ctrl-b o` - swap panes
 
 
 ## copy-mode
