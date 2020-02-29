@@ -35,7 +35,8 @@
 - `Ctrl + w =` - normalize split sizes
 - `Ctrl + w r` - swap windows (left-right, up-down)
 - `Ctrl + w o` - close all windows
-
+- `Ctrl + w +/-` - resize window vertically
+- `Ctrl + w >/<` - resize window horizontally
 
 
 
