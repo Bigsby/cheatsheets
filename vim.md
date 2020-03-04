@@ -1,7 +1,14 @@
 # Vim shortcuts
 
-## Replace all occurences of word
+## Search and Replace
 
+### Search
+```
+:/seachPatern
+```
+*case sensitive* toggle `\c`
+
+### Replace
 ```
 :%s/oldWord/newWord/g
 ```
