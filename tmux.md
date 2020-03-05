@@ -36,6 +36,10 @@
   - `Enter` - Copy selection and quit
   - `q` - Quit
 - `Ctrl-b ]` - Paste
+### copy to x clipboard
+```
+echo "content to copy" | xclip -selection clipboard
+```
 
 ## search buffer
 - `Ctrl-b [` - Enter copy-mode. Vim visual-mode keys apply, including block.
