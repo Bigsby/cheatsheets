@@ -25,10 +25,20 @@ clear package.ClassName.method
 clear package.ClassName:lineNumber
 ```
 
-### Continue execution until next breakpoint
+## Execute
+### Until next breakpoint
 ```
 cont
 ```
+### Step over
+```
+next
+```
+### Step into
+```
+step
+```
+
 
 ### Display local variabies
 ```
