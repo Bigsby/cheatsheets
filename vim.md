@@ -19,6 +19,7 @@
   - `y` - copy (yank)
   - `d` - cut
 - ´p´ - paste, in normal mode
+- ´P´ - paste to beginnig of line, in normal mode
 
 ## Undo / Redo
 - `u` - Undo
