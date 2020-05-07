@@ -15,6 +15,7 @@
 
 ## Package Managers
 |tool|install|
+|---|---|
 |rpm|rpm -i «pf».rpm|
 |dpkg|dpkg -i «pf».deb|
 
