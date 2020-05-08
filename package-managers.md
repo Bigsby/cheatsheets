@@ -12,7 +12,7 @@
 |apt|update|list --upgradable|upgrade|install «pe»|remove «pe»|autoremove|search «re»|show «p»|list --installed|
 |yum|check-update|list --upgrades|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|list --installed|
 |dnf|check-update|list --upgrades|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|list --installed|
-|pacman|-Sy|-Qu|-Syu|-S «p«|-R «p«|-Rsn $(pacman -Qdtq)|-Ss «re»|-Qi «p»|-Qe|
+|pacman|-Sy|-Qu|-Syu|-S «p»|-R «p»|-Rsn $(pacman -Qdtq)|-Ss «re»|-Qi «p»|-Qe|
 
 ## Package Managers
 |tool|install|
