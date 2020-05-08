@@ -21,13 +21,10 @@
 |dpkg|dpkg -i «pf».deb|
 
 ## Usages
-|tool|OSs|
+|tools|OSs|
 |---|---|
 |pkg|FreeBSD, OpenBSD|
-|apt|Debian, Ubuntu|
-|dpkg|Debian, Ubuntu|
-|yum|Red Hat, CentOS, Fedora|
+|dpkg,apt|Debian, Ubuntu|
+|rpm,yum,dnf|Red Hat, CentOS, Fedora|
 |pacman|Arch Linux, Manjaro|
-|dnf|Red Hat, CentOS, Fedora|
-|rpm|Red Hat, CentOS, Fedora|
 
