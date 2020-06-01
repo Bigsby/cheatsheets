@@ -9,7 +9,7 @@
   ```
 
 ## Restart in Normal Mode
-- `Win + R´ > `msconfig´
+- `Win + R` > `msconfig´
 - In `Boot` tab, uncheck `Safe boot`
 - `OK`,
 - Restart.
