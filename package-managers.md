@@ -11,7 +11,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 |pkg|update|upgrading|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|info|
 |apt|update|list --upgradable|upgrade|install «pe»|remove «pe»|autoremove|search «re»|show «p»|list --installed|
-|yum|check-update|list --upgrades|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|list --installed|
+|yum|check-update||upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»||
 |dnf|check-update|list --upgrades|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|list --installed|
 |pacman|-Sy|-Qu|-Syu|-S «p»|-R «p»|-Rsn $(pacman -Qdtq)|-Ss «re»|-Qi «p»|-Qe|
 |zypper|ref|lu|up|in «p»|rm «p»|rm -u|se «ex»|if «p»|se -i|
@@ -28,7 +28,8 @@
 |---|---|
 |pkg|FreeBSD, OpenBSD|
 |dpkg,apt|Debian, Ubuntu|
-|rpm,yum,dnf|Red Hat, CentOS, Fedora|
+|rpm,dnf|Red Hat, Fedora|
+|rpm,yum|CentOS|
 |pacman|Arch Linux, Manjaro|
 |zypper|(open)SUSE|
 !apk|Alpine Linux|
