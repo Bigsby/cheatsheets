@@ -33,6 +33,6 @@
 |rpm,yum|CentOS|
 |pacman|Arch Linux, Manjaro|
 |zypper|(open)SUSE|
-!apk|Alpine Linux|
+|apk|Alpine Linux|
 |swupd|Clear Linux|
 |xbps|Void Linux|
