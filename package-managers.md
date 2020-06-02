@@ -16,6 +16,7 @@
 |pacman|-Sy|-Qu|-Syu|-S «p»|-R «p»|-Rsn $(pacman -Qdtq)|-Ss «re»|-Qi «p»|-Qe|
 |zypper|ref|lu|up|in «p»|rm «p»|rm -u|se «ex»|if «p»|se -i|
 |apk|update|upgrade||add «p«|del «p«||search »re»|info »p»|info|
+|swup|check-update||update|bundle-add «p»|bundle-remove «p»||search »re»|bundle-info «p»||
 
 ## Package Managers
 |tool|install|
@@ -33,3 +34,4 @@
 |pacman|Arch Linux, Manjaro|
 |zypper|(open)SUSE|
 !apk|Alpine Linux|
+|swupd|Clear Linux|
