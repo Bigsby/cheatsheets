@@ -15,6 +15,7 @@
 |dnf|check-update|list --upgrades|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|list --installed|
 |pacman|-Sy|-Qu|-Syu|-S «p»|-R «p»|-Rsn $(pacman -Qdtq)|-Ss «re»|-Qi «p»|-Qe|
 |zypper|ref|lu|up|in «p»|rm «p»|rm -u|se «ex»|if «p»|se -i|
+!apk!update|upgrade||add «p«|del «p«||search »re»|info »p»|info|
 
 ## Package Managers
 |tool|install|
@@ -30,4 +31,4 @@
 |rpm,yum,dnf|Red Hat, CentOS, Fedora|
 |pacman|Arch Linux, Manjaro|
 |zypper|(open)SUSE|
-
+!apk|Alpine Linux|
