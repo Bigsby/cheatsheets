@@ -11,6 +11,7 @@
 |---|---|---|---|---|---|---|---|---|---|
 |pkg|update|upgrading|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|info|
 |apt|update|list --upgradable|upgrade|install «pe»|remove «pe»|autoremove|search «re»|show «p»|list --installed|
+|apt-get|update||upgrade|install «p»|remove «p«|autoremove|apt-cache search «re»|apt-cache show «p»||
 |yum|check-update||upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»||
 |dnf|check-update|list --upgrades|upgrade|install «p»|remove «p»|autoremove|search «ex»|info «p»|list --installed|
 |pacman|-Sy|-Qu|-Syu|-S «p»|-R «p»|-Rsn $(pacman -Qdtq)|-Ss «re»|-Qi «p»|-Qe|
@@ -27,12 +28,12 @@
 ## Usages
 |tools|OSs|
 |---|---|
-|pkg|FreeBSD, OpenBSD|
-|dpkg,apt|Debian, Ubuntu|
+|pkg|FreeBSD, OpenBSD, NetBSD, GhostBSD|
+|dpkg,apt,apt-get/-cache|Debian, Ubuntu|
 |rpm,dnf|Red Hat, Fedora|
 |rpm,yum|CentOS|
 |pacman|Arch Linux, Manjaro|
 |zypper|(open)SUSE|
 |apk|Alpine Linux|
 |swupd|Clear Linux|
-|xbps|Void Linux|
+|xbps-install/-remove/-query|Void Linux|
