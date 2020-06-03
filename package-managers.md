@@ -37,3 +37,14 @@
 |apk|Alpine Linux|
 |swupd|Clear Linux|
 |xbps-install/-remove/-query|Void Linux|
+
+
+## Other gothcas
+
+### pacman
+#### PGP errors
+```
+pacman-key --init
+pacman-key --populate
+```
+
