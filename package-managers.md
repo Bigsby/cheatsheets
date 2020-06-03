@@ -17,7 +17,7 @@
 |pacman|-Sy|-Qu|-Syu|-S «p»|-R «p»|-Rsn $(pacman -Qdtq)|-Ss «re»|-Qi «p»|-Qe|
 |zypper|ref|lu|up|in «p»|rm «p»|rm -u|se «ex»|if «p»|se -i|
 |apk|update||upgrade|add «p«|del «p«||search »re»|info »p»|info|
-|swup|check-update||update|bundle-add «p»|bundle-remove «p»||search »re»|bundle-info «p»|bundle-list|
+|swupd|check-update||update|bundle-add «p»|bundle-remove «p»||search »re»|bundle-info «p»|bundle-list|
 |xbps|xbps-install -S||xbps-install -Su|xbps-install -S »p»|xbps-remove «p»|xbps-remove -o|xbps-query -Rs «ex»|xbps-query -R «p»|xbps-query -l|
 ## Package Managers
 |tool|install|
