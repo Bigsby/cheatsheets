@@ -9,7 +9,7 @@
 ## Frontends
 |tool|update|upgradable|upgrade|install|remove|prune|search|info|installed|
 |---|---|---|---|---|---|---|---|---|---|
-|pkg|update|upgrading|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|info|
+|pkg|update|updating|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|info|
 |apt|update|list --upgradable|upgrade|install «pe»|remove «pe»|autoremove|search «re»|show «p»|list --installed|
 |apt-get|update|-u upgrade --assume-no|upgrade|install «p»|remove «p«|autoremove|apt-cache search «re»|apt-cache show «p»||
 |yum|check-update|list updates|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|list installed|
