@@ -30,8 +30,7 @@
 |---|---|
 |pkg|FreeBSD, OpenBSD, NetBSD, GhostBSD|
 |dpkg,apt,apt-get/-cache|Debian, Ubuntu|
-|rpm,dnf|Red Hat, Fedora|
-|rpm,yum|CentOS|
+|rpm,yum,dnf|Red Hat, Fedora, CentOS|
 |pacman|Arch Linux, Manjaro|
 |zypper|(open)SUSE|
 |apk|Alpine Linux|
