@@ -33,6 +33,7 @@
   ```
 - `Ctrl + w Shit + t` - Pane to new tab
 - `gt` - go to next tab
+- `gT` - go to previous tab
 
 ## Windows (Panes)
 - `:sp [filename]` - horizontal split
