@@ -1,5 +1,11 @@
 # tmux shortcuts
 
+## commands
+Commands are run with `Ctrl-b :COMMAND`
+- `list-commands`
+- `list-keys`
+- `kill-session`
+
 ## session
 - List sessions
   ```
@@ -10,6 +16,7 @@
   tmux attach-session -t «sessionNumber»
   ```
 - `Ctrl-b d` - detach session/client
+- `Ctrl-b ?` - list key bindings
 
 ## window
 - `Ctrl-b c` - new window
