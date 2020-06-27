@@ -12,6 +12,8 @@
 - Start
 - Stop
 - Restart
+- Poweroff
+- Reboot
 
 ## Systems
 - systemd
