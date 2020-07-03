@@ -15,7 +15,7 @@
 |apt-get|update|-u upgrade --assume-no|upgrade|install «p»|remove «p«|autoremove|apt-cache search «re»|apt-cache show «p»||
 |yum|check-update|list updates|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|list installed|
 |dnf|check-update|list --upgrades|upgrade|install «p»|remove «p»|autoremove|search «ex»|info «p»|list --installed|
-|pacman|-Sy|-Qu|-Syu|-S «p»|-R «p»|-Rsn $(pacman -Qdtq)|-Ss «re»|-Qi «p»|-Qe|
+|pacman|-Sy|-Qu|-Su|-S «p»|-R «p»|-Rsn $(pacman -Qdtq)|-Ss «re»|-Qi «p»|-Qe|
 |zypper|ref|lu|up|in «p»|rm «p»|rm -u|se «ex»|if «p»|se -i|
 |apk|update||upgrade|add «p«|del «p«||search »re»|info »p»|info|
 |swupd|check-update||update|bundle-add «p»|bundle-remove «p»|bundle-remove --orphans|search »re»|bundle-info «p»|bundle-list|
