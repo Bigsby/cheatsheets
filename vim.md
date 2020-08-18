@@ -52,3 +52,6 @@
 
 "Close every window in the current tabview but the current one
 Ctrl+W o
+
+## Misc
+- `Ctrl + G` - show current buffer file path
