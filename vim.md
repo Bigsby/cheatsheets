@@ -48,10 +48,13 @@
 - `Ctrl + w >/<` - resize window horizontally
 
 
-
-
 "Close every window in the current tabview but the current one
 Ctrl+W o
 
 ## Misc
 - `Ctrl + G` - show current buffer file path
+- `Ctrl + D` - list autocomplete options
+- Set/chang syntax highlight:
+```
+:setfiletype SYNTAX
+```
