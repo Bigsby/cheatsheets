@@ -54,7 +54,7 @@ Ctrl+W o
 ## Misc
 - `Ctrl + G` - show current buffer file path
 - `Ctrl + D` - list autocomplete options
-- Set/chang syntax highlight:
+- Set/change syntax highlight:
 ```
 :setfiletype SYNTAX
 ```
