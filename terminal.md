@@ -15,3 +15,9 @@ echo $0
 ```
 fc
 ```
+
+- Get OS name
+```
+cat /etc/os-release | grep "^NAME=" | cut -d \" -f2
+```
+
