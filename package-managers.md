@@ -16,7 +16,7 @@
 |pacman|-Sy|-Qu|-Su|-S «p»|-R «p»|-Rsn $(pacman -Qdtq)|-Ss «re»|-Qi «p»|-Qe|
 |pkg|update|updating|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|info|
 |pkg_||pkg_add -un|pkg_add -u|pkg_add «p»|pkg_delete «p»|pkg_check|pkg_info -Q «re»|pkg_info «p»|pkg_info|
-|pkgin|pkgin up||pkgin upgrade|pkgin in «p»|pkgin rm «p»|pkgin se «re»||pkgin ls|
+|pkgin|up||upgrade|in «p»|rm «p»|autoremove|se «re»|pkg-descr «p»|pkgin ls|
 |swupd|check-update||update|bundle-add «p»|bundle-remove «p»|bundle-remove --orphans|search »re»|bundle-info «p»|bundle-list|
 |xbps-|xbps-install -S||xbps-install -u|xbps-install -S »p»|xbps-remove «p»|xbps-remove -o|xbps-query -Rs «ex»|xbps-query -R «p»|xbps-query -l|
 |yum|check-update|list updates|upgrade|install «p»|remove «p»|autoremove|search «re»|info «p»|list installed|
