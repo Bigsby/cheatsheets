@@ -40,7 +40,7 @@
 |rpm,yum,dnf|Red Hat, Fedora, CentOS|
 |swupd|Clear Linux|
 |xbps-install/-remove/-query|Void Linux|
-|zypper|(open)SUSE|
+|rpm,zypper|(open)SUSE|
 
 
 ## Other gothcas
