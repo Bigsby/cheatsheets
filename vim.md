@@ -58,3 +58,11 @@ Ctrl+W o
 ```
 :setfiletype SYNTAX
 ```
+
+## Configs
+```
+syntax on
+set shiftwidth=4
+set tabstop=4
+set expandtab
+```
