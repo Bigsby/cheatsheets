@@ -24,7 +24,10 @@ Commands are run with `Ctrl-b :COMMAND`
 - `Ctrl-b ,` - rename window
 - `Ctrl-b .` - renumber window
 - `Ctrl-b Shit-Alt-x` - kill window
-- `Shift+Left` or `Shift+Right` - select window
+- `Ctrl-b p` - select previous window
+- `Ctrl-b n` - select next window
+- `Ctrl-b w` - select window from list
+- `Ctrl-b l` - select previous window
 
 ## pane
 - `Ctrl-b %` - split horizontally
