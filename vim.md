@@ -47,6 +47,8 @@
 - `Ctrl + w +/-` - resize window vertically
 - `Ctrl + w >/<` - resize window horizontally
 
+## Navigation
+- `:N` - Go to line `N`
 
 "Close every window in the current tabview but the current one
 Ctrl+W o
