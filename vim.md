@@ -8,6 +8,8 @@
 ```
 *case sensitive* toggle `\c`
 
+- `*` - search word under cursor
+
 ### Replace
 ```
 :%s/oldWord/newWord/g
