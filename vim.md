@@ -61,6 +61,7 @@ Ctrl+W o
 - `Ctrl + P` - list autocomplete options
 - Set/change syntax highlight:
 - `Ctrl + V, Tab` - Insert TAB (for Makefile)
+
 ```
 :setfiletype SYNTAX
 ```
