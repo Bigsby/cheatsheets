@@ -59,9 +59,9 @@ Ctrl+W o
 - `Ctrl + X, Ctrl + F` - autocomplete file system
 - `Ctrl + G` - show current buffer file path
 - `Ctrl + P` - list autocomplete options
-- Set/change syntax highlight:
 - `Ctrl + V, Tab` - Insert TAB (for Makefile)
-- ```
+- Set/change syntax highlight:
+  ```
   :setfiletype SYNTAX
   ```
 
