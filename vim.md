@@ -51,6 +51,8 @@
 
 ## Navigation
 - `:N` - Go to line `N`
+- `Ctrl + o` - Go to previous location
+- `Ctrl + i` - Go to newer location
 
 "Close every window in the current tabview but the current one
 Ctrl+W o
