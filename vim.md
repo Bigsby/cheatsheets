@@ -53,15 +53,16 @@
 - `:N` - Go to line `N`
 - `Ctrl + o` - Go to previous location
 - `Ctrl + i` - Go to newer location
+- `Ctrl + y/e` - Scroll up/down
 
 "Close every window in the current tabview but the current one
 Ctrl+W o
 
 ## Misc
-- `Ctrl + X, Ctrl + F` - autocomplete file system
-- `Ctrl + G` - show current buffer file path
-- `Ctrl + P` - list autocomplete options
-- `Ctrl + V, Tab` - Insert TAB (for Makefile)
+- `Ctrl + x, Ctrl + f` - autocomplete file system
+- `Ctrl + g` - show current buffer file path
+- `Ctrl + p`, `Ctrl + n` - list autocomplete options
+- `Ctrl + v, Tab` - Insert TAB (for Makefile)
 - Set/change syntax highlight:
   ```
   :setfiletype SYNTAX
