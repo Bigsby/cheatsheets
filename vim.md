@@ -54,6 +54,8 @@
 - `Ctrl + o` - Go to previous location
 - `Ctrl + i` - Go to newer location
 - `Ctrl + y/e` - Scroll up/down
+- `{` / `}` - Move to previous/next empty line
+- `%` - Move to matching enclosing _()_, _{}_, _[]_
 
 "Close every window in the current tabview but the current one
 Ctrl+W o
