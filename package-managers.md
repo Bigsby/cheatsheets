@@ -43,7 +43,7 @@
 |rpm,zypper|(open)SUSE|
 
 
-## Other gothcas
+## Other gotchas
 
 ### pacman
 #### PGP errors
